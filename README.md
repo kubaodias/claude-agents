@@ -1,6 +1,6 @@
 # Claude Code Agents
 
-This repository contains @kubaodias' custom Claude Code sub-agents.
+This repository contains custom Claude Code sub-agents.
 
 ## About
 
